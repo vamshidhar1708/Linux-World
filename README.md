@@ -12,6 +12,6 @@ This repo hosts multi-user Linux labs that anyone can set up and use.
    ```bash
    git clone https://github.com/<your-username>/linux-labs.git
 
+   cd linux-labs/setup
 
-cd linux-labs/setup
-bash install_docker.sh
+   bash install_docker.sh
